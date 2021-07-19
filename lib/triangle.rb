@@ -1,5 +1,2 @@
-class Hello
-  def hello_world
-    "Hello world!"
-  end
+def triangle
 end
